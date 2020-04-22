@@ -135,3 +135,6 @@ def rotate(A, count):
 
 A = [1, 2, 3, 4, 5, 6, 7]
 rotate(A, 2) 
+
+
+
